@@ -4,7 +4,7 @@ This is a full-stack virtual assistant web app built using the MERN stack (Mongo
 
 ## 🔧 Tech Stack
 
-- **Frontend**: React + Vite + Tailwind CSS (if used)
+- **Frontend**: React + Vite + Tailwind CSS 
 - **Backend**: Node.js + Express
 - **Database**: MongoDB
 - **Auth**: JWT-based authentication
